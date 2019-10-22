@@ -11,7 +11,7 @@ Use this example to draw your Tables
 
 | Name | Value | Description |
 |------|-------|-------------|
-| Deivis | Sep. 2019 | kaimo jurgis |
+| zz | Sep. 2019 | kaimo jurgis |
 
 ## Text highlights
 
